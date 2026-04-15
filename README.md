@@ -48,5 +48,5 @@ XGBoost outperformed the baseline models and provided the best predictive perfor
 - better handling of class imbalance
 
 ## Repository Structure
-- `Mid-term Project.ipynb` — main project notebook  
+- `bank_marketing.ipynb` — main project notebook  
 - `utils.py` — helper functions 
